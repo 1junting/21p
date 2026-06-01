@@ -1,22 +1,5 @@
 BlackJackMacUI - Java Swing 21點遊戲
 
-執行方式：
-1. 解壓縮 BlackJackMacUI.zip
-2. 用 VS Code 開啟 BlackJackMacUI 資料夾
-3. 開啟 Terminal，確認在 BlackJackMacUI 資料夾內
-4. 輸入：
-   javac BlackJackUI.java
-   java BlackJackUI
-
-資料夾結構必須保持：
-BlackJackMacUI/
-├── BlackJackUI.java
-└── cards/
-    ├── AS.png
-    ├── 2S.png
-    ├── ...
-    └── BACK.png
-
 功能：
 - Java Swing 圖形化介面
 - 綠色賭桌風格 UI
